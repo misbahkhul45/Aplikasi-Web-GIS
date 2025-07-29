@@ -45,39 +45,6 @@
       "type": "Feature",
       "properties": { "nama": "Klinik Gigi Family Dental", "jenis": "Klinik" },
       "geometry": { "type": "Point", "coordinates": [107.6105, -6.8900] }
-    }
-    {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": { "nama": "RS Santosa Bandung", "jenis": "Rumah Sakit" },
-      "geometry": { "type": "Point", "coordinates": [107.5991, -6.9181] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "nama": "Puskesmas Sukajadi", "jenis": "Puskesmas" },
-      "geometry": { "type": "Point", "coordinates": [107.5935, -6.8770] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "nama": "Klinik Pratama Sehat", "jenis": "Klinik" },
-      "geometry": { "type": "Point", "coordinates": [107.6080, -6.9075] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "nama": "RS Umum Pusat Dr. Hasan Sadikin", "jenis": "Rumah Sakit" },
-      "geometry": { "type": "Point", "coordinates": [107.6028, -6.9034] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "nama": "Puskesmas Riung Bandung", "jenis": "Puskesmas" },
-      "geometry": { "type": "Point", "coordinates": [107.6592, -6.9423] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "nama": "Klinik Gigi Family Dental", "jenis": "Klinik" },
-      "geometry": { "type": "Point", "coordinates": [107.6105, -6.8900] }
     },
     {
       "type": "Feature",
@@ -88,6 +55,81 @@
       "type": "Feature",
       "properties": { "nama": "Puskesmas Pasteur", "jenis": "Puskesmas" },
       "geometry": { "type": "Point", "coordinates": [107.5900, -6.8920] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Kimia Farma Buah Batu", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6250, -6.9350] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Rumah Bersalin Harapan Bunda", "jenis": "Rumah Bersalin" },
+      "geometry": { "type": "Point", "coordinates": [107.6150, -6.9100] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Laboratorium Prodia Bandung", "jenis": "Laboratorium" },
+      "geometry": { "type": "Point", "coordinates": [107.6000, -6.9100] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Immanuel Bandung", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.5950, -6.9300] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Kebon Jeruk", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.6050, -6.9250] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Utama Sentosa", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6200, -6.8950] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Al Islam Bandung", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.6850, -6.9300] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Antapani", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.6500, -6.9150] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Sehat Bersama", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6120, -6.9000] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "RSIA Grha Bunda", "jenis": "Rumah Sakit Ibu & Anak" },
+      "geometry": { "type": "Point", "coordinates": [107.6280, -6.8850] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Cinambo", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.6900, -6.9200] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Mata Bandung", "jenis": "Klinik Spesialis" },
+      "geometry": { "type": "Point", "coordinates": [107.6070, -6.9120] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Rumah Sakit Melinda 2", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.5880, -6.8970] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Pasirkaliki", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.5950, -6.8900] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Apotek K-24 Dipatiukur", "jenis": "Apotek" },
+      "geometry": { "type": "Point", "coordinates": [107.6150, -6.8900] }
     }
   ]
 }
