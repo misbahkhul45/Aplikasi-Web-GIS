@@ -46,5 +46,48 @@
       "properties": { "nama": "Klinik Gigi Family Dental", "jenis": "Klinik" },
       "geometry": { "type": "Point", "coordinates": [107.6105, -6.8900] }
     }
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Santosa Bandung", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.5991, -6.9181] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Sukajadi", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.5935, -6.8770] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Pratama Sehat", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6080, -6.9075] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Umum Pusat Dr. Hasan Sadikin", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.6028, -6.9034] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Riung Bandung", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.6592, -6.9423] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Gigi Family Dental", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6105, -6.8900] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Hermina Arcamanik", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.6750, -6.9050] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Pasteur", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.5900, -6.8920] }
+    }
   ]
 }
