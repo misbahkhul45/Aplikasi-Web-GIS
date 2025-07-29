@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "nama": "RS Hasan Sadikin", "jenis": "Rumah Sakit" },
+      "geometry": { "type": "Point", "coordinates": [107.6028, -6.9034] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Dago", "jenis": "Puskesmas" },
+      "geometry": { "type": "Point", "coordinates": [107.6186, -6.8807] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Klinik Medika", "jenis": "Klinik" },
+      "geometry": { "type": "Point", "coordinates": [107.6230, -6.9141] }
+    }
+  ]
+}
