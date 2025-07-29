@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Peta Fasilitas Kesehatan - Web GIS</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h2>Peta Persebaran Fasilitas Kesehatan di Kota Bandung</h2>
+  <div id="map"></div>
+  <div id="legend">
+    <strong>Legenda:</strong><br />
+    <span style="color: green;">●</span> Puskesmas<br />
+    <span style="color: blue;">●</span> Rumah Sakit<br />
+    <span style="color: orange;">●</span> Klinik
+  </div>
+  <label for="filter">Filter jenis fasilitas: </label>
+  <select id="filter">
+    <option value="all">Semua</option>
+    <option value="Puskesmas">Puskesmas</option>
+    <option value="Rumah Sakit">Rumah Sakit</option>
+    <option value="Klinik">Klinik</option>
+  </select>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
